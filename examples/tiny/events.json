@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-09-30",
+  "events": [
+    {
+      "amount_cents": 300,
+      "date": "2026-09-30",
+      "id": "0",
+      "sequence": 0,
+      "type": "created",
+      "workflow_id": "one"
+    },
+    {
+      "amount_cents": 0,
+      "date": "2026-09-30",
+      "id": "1",
+      "sequence": 1,
+      "type": "started",
+      "workflow_id": "one"
+    },
+    {
+      "amount_cents": 0,
+      "date": "2026-09-30",
+      "id": "2",
+      "sequence": 2,
+      "type": "signal",
+      "workflow_id": "one"
+    },
+    {
+      "amount_cents": 0,
+      "date": "2026-09-30",
+      "id": "3",
+      "sequence": 3,
+      "type": "signal",
+      "workflow_id": "one"
+    },
+    {
+      "amount_cents": 0,
+      "date": "2026-09-30",
+      "id": "4",
+      "sequence": 4,
+      "type": "completed",
+      "workflow_id": "one"
+    }
+  ],
+  "label": "SYNTHETIC hand-written five-record example",
+  "synthetic": true
+}
