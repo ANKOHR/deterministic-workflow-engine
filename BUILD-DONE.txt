@@ -1,0 +1,5 @@
+Test count: 31 passed (python -m pytest -q).
+Local implementation commit hash: b9f38b3f7bd90a356b228e9562f5af0f37811065
+Measured installed CLI demo: 0.843916 seconds for fixtures, run and Markdown report.
+
+Built a CPU-only, local Python workflow event engine with strict schema and transition validation, counted idempotent duplicate delivery, deterministic reduction, atomic saved runs and reports, replay verification, labelled 200-record synthetic fixtures with independent ground truth, a five-record example, Markdown and JSON provenance reports, and adversarial pytest coverage. README, evidence and lessons document the input contract, measured acceptance results, honesty boundary, failure modes and pending two-week real-use verdict. Provisional verdict is maintain. No publication was performed. This file references the implementation commit; the following documentation commit records build completion.
